@@ -1,4 +1,5 @@
-{
+[
+  {
   "kernelSource": {
     "name": "dipper_pekernel_kernelsu",
     "repo": "https://github.com/PixelExperience-Devices/kernel_xiaomi_dipper",
@@ -38,7 +39,8 @@
   "AnyKernel3": {
     "use": false,
     "release": false,
-    "repo": "ttps://github.com/easterNday/AnyKernel3/",
+    "repo": "https://github.com/easterNday/AnyKernel3/",
     "branch": "thyme"
   }
 }
+]
